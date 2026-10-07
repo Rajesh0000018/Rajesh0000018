@@ -141,16 +141,6 @@ manual testing, defect reporting and technical documentation.
 
 </div>
 
-| Area | Technologies |
-| :--- | :--- |
-| **Cloud** | AWS, Microsoft Azure |
-| **Infrastructure as Code** | Terraform, Azure Bicep |
-| **Delivery & Source Control** | Jenkins, Git |
-| **Systems & Containers** | Linux, Docker, Kubernetes |
-| **Scripting** | Python, Bash |
-| **Monitoring & Governance** | CloudWatch, CloudHealth, IAM |
-| **Applications & Data** | FastAPI, React, PostgreSQL, Redis |
-
 ## ✍️ Articles & Engineering Notes
 
 I write about the problems, architecture and engineering decisions
