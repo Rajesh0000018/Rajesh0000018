@@ -7,7 +7,7 @@
 ### Cloud · DevOps · Linux · Infrastructure Automation
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT_WEBSITE-FF6B35?style=for-the-badge)](https://Rajesh0000018.github.io)
-[![Resume](https://img.shields.io/badge/RESUME-DOWNLOAD_PDF-253858?style=for-the-badge)](https://Rajesh0000018.github.io/Rajesh_BT_Resume.pdf)
+[![Resume](https://img.shields.io/badge/RESUME-DOWNLOAD_PDF-253858?style=for-the-badge)](https://Rajesh0000018.github.io/Rajesh_Bennegere_Theertheswara.pdf)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square)](https://www.linkedin.com/in/rajesh-bennegere-theertheswara-87577b149)
 [![Medium](https://img.shields.io/badge/Medium-Read_articles-12100E?style=flat-square)](https://medium.com/@rajeshraj19981)
